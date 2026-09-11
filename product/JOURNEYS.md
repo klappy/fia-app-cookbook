@@ -88,3 +88,7 @@ A bounded development effort and continuing maintenance are distinct. There is n
 | Validation exercise / actual result / open questions | Not filled |
 
 Record supporting evidence and unresolved threads in [Support](../journals/SUPPORT.md); use the [delivery plan](../management/DELIVERY-PLAN.md) for links to authorized work.
+
+## Bounded PoC scenario
+
+[PLAN](../poc/PLAN.md) defines a source-bound six-step, single-passage scenario with [observable validation](../poc/VALIDATION.md). Existing journey ordering remains hypothetical. [FIA website terminology and resource paths](../references/FIA-WEBSITE.md) inform navigation, while [source-pack evidence](../poc/SOURCE-PACK.md) determines actual included assets. Spoken app-driving remains distinct from synthetic narration and accessible controls.

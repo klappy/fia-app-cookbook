@@ -65,3 +65,7 @@ Finally, agree a shared version and have each participant practice it. The guide
 The text read covers all six stages, but a complete resource-assisted session still needs the requested recordings, map and glossary access. Actual language suitability, rights and cultural usability need their own checks. Questions about historical, geographic, etymological or theological correctness require a qualified reviewer and an authoritative standard.
 
 The companion [findings](FINDINGS.md) separate direct observations from proposed app implications. [Coverage](COVERAGE.tsv) records what was read and what remains unresolved. These notes concern one source unit and should not be generalized to every FIA guide or language.
+
+## Selected PoC follow-up
+
+The [selected source pack](../../../../poc/SOURCE-PACK.md) assesses a different, explicitly bounded Mark passage and its associated resources. The [FIA website reference](../../../../references/FIA-WEBSITE.md) supplies parallel navigation and terminology with crawl/coverage limits. Neither website listings nor this earlier body assessment establish actual media playback, offline behavior or blanket asset rights.

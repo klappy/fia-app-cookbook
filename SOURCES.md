@@ -17,3 +17,9 @@ Each public `SUP-001-XX` record in [supporting pass 001](journals/support/SUPPOR
 The [private projection review receipt](https://github.com/klappy/kitchen/blob/main/rail/meals/2026-09-10-fia-app-cookbook/development/SUPPORT-001-REVIEW.md) binds the reviewed public bytes and the all-candidate disposition check. These links require authorized private-repository access. A public access error is not permission to infer a source's contents.
 
 Product entries link to public support records so their rationale is usable without access to private originals. A source-grounded proposal remains different from a validated requirement or current ruling. Relevant withheld meaning and an incomplete item remain explicit private debt; this projection does not claim complete semantic or whole-history coverage.
+
+## Bounded PoC and public website reference
+
+The [PoC plan](poc/PLAN.md) links neutral scope records to the [authorized evidence ledger](https://github.com/klappy/kitchen/blob/main/rail/meals/2026-09-11-fia-functional-poc/ATLANTA-SCOPE-EVIDENCE.tsv). Exact source coverage, held boundaries, retrieval limits and independent receipts remain private. This does not publish original source content or validate product usability.
+
+The [FIA website reference](references/FIA-WEBSITE.md) records URLs, retrieval/crawl limits, terminology, resource discovery and licensing gaps. The [selected source pack](poc/SOURCE-PACK.md) separately assesses actual Aquifer bodies and item-specific rights; [focused research](poc/RESEARCH.md) covers oral-audience interpretation and implementation references. Their status is assessment/proposal, not working app behavior.

@@ -14,3 +14,9 @@ The [ten-claim register](claims/CLAIMS.tsv) and [PRODUCT.md](PRODUCT.md) remain 
 - Resource/tag fidelity, rights, languages, actual device behavior and usability require assessment. A retrospective interface example does not establish the first pitch or original demonstration.
 
 Use the [support index](journals/SUPPORT.md), [harvest record](harvest/PASS-CENSUS.md) and [source access](SOURCES.md) to follow evidence and limits. The [delivery plan](management/DELIVERY-PLAN.md) points to the actual work queue; these product artifacts do not authorize or duplicate it.
+
+## Scoped PoC planning pass
+
+A [bounded PoC design](poc/PLAN.md), [source pack](poc/SOURCE-PACK.md), [capability register](poc/CAPABILITIES.md) and [validation contract](poc/VALIDATION.md) now add a concrete proposed scenario. Independent scope review checked the available governing source set; exact coverage and limits remain in the private evidence ledger. This does not complete the separately queued source-local extraction streams or broader V1 assessments. Prior statements above describe the earlier supporting pass and remain historical, not the current scope coverage receipt.
+
+The [official website reference](references/FIA-WEBSITE.md) is a core domain input with explicit coverage, terminology and rights limits. App implementation, physical-device behavior and audience validation are not yet established by this planning pass. Plan acceptance and publication require their actual receipts; no proposed build is running by this text.

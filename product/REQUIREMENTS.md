@@ -161,3 +161,7 @@ Copy this block. Preserve a prior ID when attaching new evidence; split only whe
 | Actual authority ruling / supersedes | Not filled |
 
 Connect entries to [role hypotheses](PERSONAS.md), [journeys](JOURNEYS.md) and [support records](../journals/SUPPORT.md). The [delivery plan](../management/DELIVERY-PLAN.md) points to the actual work queue.
+
+## Bounded PoC application
+
+The [current PoC plan](../poc/PLAN.md) selects a finite implementation scenario within its separately reviewed scope. It does not approve every requirement above. The [FIA website](../references/FIA-WEBSITE.md) informs three-concept/six-step terminology and resource discovery; its broader translation workflow does not expand the app boundary. [Selected Aquifer evidence](../poc/SOURCE-PACK.md) and [validation](../poc/VALIDATION.md) provide concrete acceptance dependencies. These links add evidence without silently changing historical claim status.
