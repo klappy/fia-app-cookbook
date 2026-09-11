@@ -1,15 +1,15 @@
 # Current state
 
-Stage: initial cookbook orientation.
+Stage: first proposed product-knowledge pass.
 
-The navigation and contribution procedure are established here. No product-knowledge harvest is recorded yet; see the [harvest record](harvest/PASS-CENSUS.md).
+[PRODUCT.md](PRODUCT.md) presents the same proposed scope recorded in the [claim register](claims/CLAIMS.tsv). The pass covers purpose, communal and individual use, resource navigation, guided interaction, mobile/offline constraints and possible AI assistance. It does not establish an approved specification or completed app behavior.
 
 ## Open questions
 
-- Current product decision authority has not been established in this cookbook.
-- Product purpose, requirements, constraints and implementation choices await source review.
-- Source review is incomplete. An unread or unavailable source is an evidence gap, not an exclusion.
+- Current product decision authority has not been established in this cookbook. All recorded claims remain proposed.
+- Initial interaction and implementation choices remain open, including whether AI assistance is part of the first release.
+- The exact first pitch and live demonstration have not been established. A conversational-interface precursor is evidence for exploration, not proof of origin.
+- Source review is incomplete. Unread sources, partial retrievals and unavailable documents remain evidence gaps; this pass does not exclude them.
+- Claims that depend on unavailable original documents remain held.
 
-Do not infer an approved product decision from this scaffold, a historical discussion or another FIA project. Future entries should distinguish proposed knowledge from an observed authorized decision and preserve any superseded status.
-
-Use [sources and access](SOURCES.md) to resolve evidence and the [harvest procedure](harvest/PROCEDURE.md) to prepare the next contribution.
+Use the [harvest record](harvest/PASS-CENSUS.md) to distinguish this bounded pass from whole-history coverage, and [sources and access](SOURCES.md) to resolve a particular claim's evidence.

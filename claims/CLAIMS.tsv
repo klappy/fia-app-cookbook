@@ -1,0 +1,11 @@
+id	type	status	text	evidence_pointer	supersedes
+FIA-001	REQ	proposed	Help people understand, internalize and express the meaning of Scripture through FIA resources; translation recording and checking are outside the proposed initial scope.	../SOURCES.md	
+FIA-002	REQ	proposed	Support communal engagement while allowing individual use of the resources.	../SOURCES.md	
+FIA-003	REQ	proposed	Make audio, video, images and related resources easy to reach without learning a complicated navigation structure.	../SOURCES.md	
+FIA-004	REQ	proposed	Support a guided flow that can pause for questions or discussion and then resume the relevant resources.	../SOURCES.md	
+FIA-005	CON	proposed	Explore a phone-first, portrait-oriented experience; broader device support is not established by this proposal.	../SOURCES.md	
+FIA-006	CON	proposed	Support offline use with deliberate selection, download and removal of resource content to fit device storage.	../SOURCES.md	
+FIA-007	REQ	proposed	Use a deterministic guided flow as a proposed starting point, with AI assistance potentially added without making that initial flow depend on it.	../SOURCES.md	
+FIA-008	REQ	proposed	Explore conversational control of navigation and app actions beyond a chat panel that only answers questions; this is not a confirmed feature or a claim about the first demonstration.	../SOURCES.md	
+FIA-009	CON	proposed	Preserve the resource metadata needed by the experience, including timing links, when choosing how content reaches the app.	../SOURCES.md	
+FIA-010	CON	proposed	Reduce media transfer size for constrained connections while checking that the resulting resources remain usable.	../SOURCES.md	
