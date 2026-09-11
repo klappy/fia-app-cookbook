@@ -1,7 +1,13 @@
 # Harvest record
 
-No product-knowledge harvest has been recorded in this cookbook yet.
+## PASS-001 — first proposed product direction
 
-This page tracks reviewed knowledge passes, not transcript inventories. A future entry should identify the public change, its review state, a generic coverage description and any remaining gap. Use [source access](../SOURCES.md) for private evidence; do not list transcript identifiers, meeting metadata or raw source text here.
+Scope: purpose and intended use, resource navigation, guided interaction, mobile/offline constraints, resource fidelity, media delivery and possible conversational control.
 
-Keep a proposed pass distinct from a reviewed or published pass. Follow the [harvest procedure](PROCEDURE.md) and update [current state](../STATE.md) only to reflect observed results.
+Output: [PRODUCT.md](../PRODUCT.md) and the matching [proposed claim register](../claims/CLAIMS.tsv). Evidence and exact wording are reviewed separately from product approval; every claim remains proposed.
+
+This is a bounded first pass. Unread sources, partial retrievals and unavailable documents remain outstanding. The exact first pitch and demonstration are unresolved. No whole-history coverage or approved implementation is claimed.
+
+Authorized reviewers can inspect the [private mapping and review receipt](../SOURCES.md). The public change's Git revision identifies the exact text of this pass; later changes must preserve its history and review their own source differences.
+
+Follow the [harvest procedure](PROCEDURE.md) and keep [current state](../STATE.md) consistent with the results actually observed.
