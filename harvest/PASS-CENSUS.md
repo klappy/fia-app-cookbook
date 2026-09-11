@@ -11,3 +11,23 @@ This is a bounded first pass. Unread sources, partial retrievals and unavailable
 Authorized reviewers can inspect the [private mapping and review receipt](../SOURCES.md). The public change's Git revision identifies the exact text of this pass; later changes must preserve its history and review their own source differences.
 
 Follow the [harvest procedure](PROCEDURE.md) and keep [current state](../STATE.md) consistent with the results actually observed.
+
+## SUPPORT-001 — source-local support and product development
+
+Output: [detailed support records](../journals/support/SUPPORT-001.md), [support index](../journals/SUPPORT.md), developed [requirements](../product/REQUIREMENTS.md), [role hypotheses](../product/PERSONAS.md) and [journeys](../product/JOURNEYS.md).
+
+This pass develops the first framing with one bounded source's reviewed meaning. It preserves rationale, alternatives, disagreement, qualifications and open questions rather than setting a published-claim target. Requirements remain proposals; ordering, recovery paths and acceptance exercises remain hypotheses. Historical choices, input transfers and reported lessons do not establish present authority or completed implementation.
+
+The original-context review accounted for the complete captured source, but full semantic completeness remains unclaimed. Relevant withheld material and an incomplete item remain explicit private debt. Every source-local candidate has a public-support or neutral held/minimized disposition in the [authorized mapping](../SOURCES.md#supporting-pass-001); no raw source material is published.
+
+## Remaining coverage
+
+| Stream | Present boundary |
+|---|---|
+| Initial discussion set | One source developed here; three other known sources still need comparable source-local extraction. |
+| Actual Aquifer use | Separate V1 evaluation remains outstanding; historical fidelity concerns are not a current catalog/body audit. |
+| Oral-theology audience source | Separate V1 assessment remains outstanding; role hypotheses are not demographic or field-research findings. |
+| Designated Generative Glass design system | Separate V1 assessment remains outstanding; no UI, asset or design-system implementation is imported here. |
+| Wider history | V2 scope remains outstanding; this pass neither excludes nor completes it. |
+
+The first ten claims remain valid proposed framing. Supporting detail does not silently replace their witnesses or settle disputed priorities. The Git revision of this public pass identifies its exact bytes; authorized reviewers can resolve the private witness mapping. Keep [current state](../STATE.md) aligned with actual results, not planned follow-ups.
