@@ -1,0 +1,13 @@
+# Contextual playback correction
+
+## Contextual playback and composition correction — 2026-09-11
+
+The subsequent user-directed correction adds prepared narration for all 21 selected term bodies, bringing the private pack to 141 source-bound recordings. No map/photo narration is implied; three videos remain external online links. The existing voice remains the default after an inconclusive matched short-sample comparison. That limited human-heard sample does not clear representative guide, Scripture or offline quality obligations.
+
+Opening resources, maps or another view now preserves the current audio owner and position. This explicitly supersedes the earlier resource-navigation cancellation behavior; intentional Play of another source, version, step or unit changes the playback session. Card-local Play identifies the requested content. A compact shared floating player beside the three-destination menu combines the source label and pause/resume action, with real thin progress and accessible timing; an accessible modal counterpart remains available while the background is inert. Offline status is a compact passage action.
+
+The implementation uses the complete pinned shared CSS and the actual components used by this app, including the floating menu, surfaces, controls and resource cards. Full catalog selection and all three app compositions informed the correction; this is not a claim to instantiate every component. The reading card has a scrollable source body and stable action footer; the current-step index uses source-derived rows. Full resource provenance remains accessible in detail rather than repeating every identifier on each tile. Source wording, intentional discussion stops and hidden-example boundaries remain unchanged.
+
+The previous delivery baseline remains valid historical evidence. Final correction tests, exact pack size, commit, merged status and limitations belong to the linked private delivery record; this note alone does not certify an unmerged candidate. Required human-heard quality, physical-device and field outcomes remain pending.
+
+The correction is independently validated at product code `88a508815d53965256ca14f01280223b9e808c2a`; the linked private delivery record owns subsequent evidence-only revisions and final merge status. Current required pack: **141 prepared recordings, 160 files, 88,710,635 bytes**. Independent checks covered compact 326/726 views and visible failure feedback for an actual missing recording. Prior whole-view checks also covered 320/390 widths, stable action geometry and continued narration through resource exploration. Final publication follows the app's exact-head CI, review and merge readback; the kitchen receipt is the authority for that transition.

@@ -1,6 +1,6 @@
 # Capability register
 
-Current result 2026-09-11: **usable partial PoC**, English Mark 1:1–13 only. Implementation validated at private app commit67b2d704b952c20b3cda953a60b07b2b4c4138a9. The [private delivery evidence](https://github.com/klappy/fia-functional-poc/blob/main/evidence/DELIVERY.md) and authorized kitchen receipts bind exact tests and subsequent documentation revisions. Private links require access; their existence is not public access to voice media or source evidence.
+Original delivery result 2026-09-11: **usable partial PoC**, English Mark 1:1–13 only. Implementation validated at private app commit67b2d704b952c20b3cda953a60b07b2b4c4138a9. The [private delivery evidence](https://github.com/klappy/fia-functional-poc/blob/main/evidence/DELIVERY.md) and authorized kitchen receipts bind exact tests and subsequent documentation revisions. Private links require access; their existence is not public access to voice media or source evidence.
 
 The current user-authorized implementation uses prepared ElevenLabs synthetic recordings. This supersedes the planning-stage browser-speech implementation choice; browser voices remain optional fallback. No runtime provider key or synthesis call is needed. **Human-heard online/offline quality remains unverified**, so the mandatory narration acceptance row and overall result are partial despite successful media playback.
 
@@ -29,3 +29,5 @@ Independent fresh validation used Node 22.16.0/npm 10.9.2 on macOS 26.2 build 25
 The original eight image assets ship; a compression experiment was not adopted. Optional network fonts and videos are not cached. Full stylesheet inclusion does not imply unavailable font binaries shipped; rendered local fallback is observed. Per-item [source notices](SOURCE-PACK.md) remain authoritative, with unresolved holder metadata preserved. No blanket legal, geographic, theological or whole-corpus claim.
 
 Broader source-local extraction, audience assessment and history remain open. The governing scope review covers the available recordings with private coverage limits; it cannot prove unrecorded material did not exist. See [validation](VALIDATION.md) and [source access](../SOURCES.md).
+
+The [subsequent contextual playback correction](CONTEXTUAL-PLAYBACK.md) records the expanded term narration and explicit exploration-continuity supersession. The original numerical test/pack totals above describe the historical delivery, not the latest candidate. Exact final correction results remain bound to the private delivery record.
