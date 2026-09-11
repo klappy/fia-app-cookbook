@@ -20,3 +20,10 @@ Use the [support index](journals/SUPPORT.md), [harvest record](harvest/PASS-CENS
 A [bounded PoC design](poc/PLAN.md), [source pack](poc/SOURCE-PACK.md), [capability register](poc/CAPABILITIES.md) and [validation contract](poc/VALIDATION.md) now add a concrete proposed scenario. Independent scope review checked the available governing source set; exact coverage and limits remain in the private evidence ledger. This does not complete the separately queued source-local extraction streams or broader V1 assessments. Prior statements above describe the earlier supporting pass and remain historical, not the current scope coverage receipt.
 
 The [official website reference](references/FIA-WEBSITE.md) is a core domain input with explicit coverage, terminology and rights limits. App implementation, physical-device behavior and audience validation are not yet established by this planning pass. Plan acceptance and publication require their actual receipts; no proposed build is running by this text.
+
+
+## Bounded PoC delivery result
+
+The one-passage implementation now has independent clean-checkout validation: source-guided flow, actual resource rendering, prepared synthetic playback and a verified offline pack work in the named desktop environment. [Capabilities](poc/CAPABILITIES.md) and [validation](poc/VALIDATION.md) distinguish those results from simulations and untested behavior. **Delivery remains partial because mandatory human-heard narration quality is unverified.** Earlier statements of no implementation describe the planning pass, not this later result.
+
+This does not settle the broader product hypotheses, audience/field validation, every source-local extraction or complete FIA release. See [delivery learning](poc/DELIVERY-LEARNING.md); actual gates and private artifact readbacks remain in the authorized coordination home.

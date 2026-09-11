@@ -1,6 +1,6 @@
 # Functional PoC plan
 
-Status: proposed, prepared for independent review. No app behavior is implemented by this plan. Binding and publication receipts belong to the authorized coordination home linked in [Sources](../SOURCES.md). This plan selects a preliminary mobile-web experience, not the complete first release or the whole FIA corpus.
+Historical planning status: proposed, prepared for independent review. No app behavior is implemented by this plan. Binding and publication receipts belong to the authorized coordination home linked in [Sources](../SOURCES.md). This plan selects a preliminary mobile-web experience, not the complete first release or the whole FIA corpus.
 
 Confidence: high in the inspected source identity and reviewed scope boundaries; moderate in implementation feasibility on the named desktop browser; unknown for actual audible/offline behavior until build verification. This is one bounded experiment, not a universal product rule or superiority claim. A failed mandatory capability retracts the full-functional verdict.
 
@@ -80,3 +80,10 @@ Reversibility: forward low — static local app and finite versioned pack; backw
 B1 establishes the private app and verified source pack; B2 implements the six-step accessible guided experience; B3 implements real narration and offline lifecycle; B4 independently exercises the resulting commit and returns the runnable artifact with observed limits. Every dish has its own ordered/claim/fire/check/review/PR/readback gates. Actual attached required checks and Bugbot results must pass; no review claim is inferred from PR creation.
 
 [Capabilities](CAPABILITIES.md) separates planned, working, simulated, unsupported and untested. [Validation](VALIDATION.md) defines the evidence needed to change status. If required narration, source fidelity, guided stops or saved offline resources cannot pass, report partial completion with the exact failed obligation. A fallback is useful but does not erase that debt. Publishing a plan is not delivering the artifact.
+
+
+## Current implementation binding — delivery projection
+
+The accepted bounded implementation now exists in its private app home. Current user-authorized prepared ElevenLabs recordings supersede the browser-only speech mechanism above; browser voices remain optional fallback. Source/scripture meaning,39discussion stops, hidden examples and the single-passage scope remain unchanged. The complete pinned Glass CSS and actual components are composed with the existing useful navigation. No runtime provider key, live synthesis, new backend or video download is needed.
+
+[Capabilities](CAPABILITIES.md) and [validation](VALIDATION.md) record observed implementation results and limits. The earlier paragraphs are retained as planning history, not current availability claims. Human-heard narration quality remains mandatory and unverified; delivery is partial. Private kitchen receipts govern actual acceptance and gates, while this public text is a sanitized result projection.

@@ -35,3 +35,8 @@ The first ten claims remain valid proposed framing. Supporting detail does not s
 ## POC-PLAN — bounded source-guided scenario
 
 Outputs: [plan](../poc/PLAN.md), [source pack](../poc/SOURCE-PACK.md), [research](../poc/RESEARCH.md), [capabilities](../poc/CAPABILITIES.md), [validation](../poc/VALIDATION.md) and [website reference](../references/FIA-WEBSITE.md). Exact independent source/projection reviews and binding status resolve through [Sources](../SOURCES.md). This pass reviews the governing scope set for one preliminary PoC; it does not replace every earlier source-local extraction, certify an audience or validate an app. Existing broader coverage debt remains.
+
+
+## POC-DELIVERY — bounded implementation result projection
+
+Outputs: updated [capabilities](../poc/CAPABILITIES.md), [validation](../poc/VALIDATION.md), current planning/source status and [delivery learning](../poc/DELIVERY-LEARNING.md). Independent clean-checkout and actual browser results support the technical rows; mandatory heard-quality remains untested and the overall result partial. This is a reviewed implementation-result projection, not a new source extraction or closure of the broader coverage table above. Exact private evidence and operational gates resolve through the existing authorized homes.

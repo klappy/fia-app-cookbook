@@ -1,6 +1,6 @@
 # Selected source pack
 
-Status: planning probes completed 2026-09-11; selected text bodies and metadata returned, media URLs answered HEAD. No media has yet been rendered, played or verified as saved offline. Source content quality is not independently theologically certified.
+Historical planning status: planning probes completed 2026-09-11; selected text bodies and metadata returned, media URLs answered HEAD. No media has yet been rendered, played or verified as saved offline. Source content quality is not independently theologically certified.
 
 The finite scenario is Mark 1:1–13 in English. Aquifer's `get` tool returned FIATranslationGuide/eng/eng-mrk-p1-v2.1, article version 1.0.4, review level None, with all six steps. Preserve its labels, content and current review status. The current [FIA website](../references/FIA-WEBSITE.md) supplies useful parallel resource navigation; website metadata does not prove content equivalence or supersede these source bodies.
 
@@ -57,3 +57,8 @@ Related assessments: [guide use notes](../evaluation/aquifer/batches/2026-09-11-
 ## Canonical path readback
 
 [RESOURCE-PATHS.json](RESOURCE-PATHS.json) records all 32 actual canonical paths, repository commits, file/content hashes and captured API-wrapper hashes. All 29 non-video content bodies occur exactly in their API wrapper. The three video bodies match after the documented relative-thumbnail URL expansion; the app does not import those thumbnails. This comparison binds meaningful body identity while preserving format differences, rather than claiming API-wrapper bytes equal source JSON. Scripture and guide source/body readbacks remain separately required in B1.
+
+
+## Subsequent implementation evidence
+
+The private app now verifies the selected canonical bodies and all eight original media assets, preserves notices/aliases and renders them in the source-guided experience. Fresh-page offline readback covers the complete finite pack. These later observations supersede the planning-only media availability statement above without changing its source pins. See [capabilities](CAPABILITIES.md) for current tested coverage. No experimental image derivative was adopted; rights ambiguity and expert content-quality limits remain open.
