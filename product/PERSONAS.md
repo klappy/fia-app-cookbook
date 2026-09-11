@@ -100,3 +100,7 @@ Audience knowledge from the designated [oral-theology source home](https://githu
 | Revision rationale / supersedes | Not filled |
 
 Use [journeys](JOURNEYS.md) to explore behavior and [requirements](REQUIREMENTS.md) to propose support. Leave unknowns open rather than making the role sound more realistic through invented detail.
+
+## New reference, unchanged validation status
+
+The [FIA website](../references/FIA-WEBSITE.md) and [focused oral-theology research](../poc/RESEARCH.md) support considering narrative, embodiment and shared discussion. They do not validate these role hypotheses, establish demographics or equate orality with inability to read. The [bounded PoC](../poc/PLAN.md) tests technical behavior before any field-usability claim.

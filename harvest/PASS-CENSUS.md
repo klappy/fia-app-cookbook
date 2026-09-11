@@ -31,3 +31,7 @@ The original-context review accounted for the complete captured source, but full
 | Wider history | V2 scope remains outstanding; this pass neither excludes nor completes it. |
 
 The first ten claims remain valid proposed framing. Supporting detail does not silently replace their witnesses or settle disputed priorities. The Git revision of this public pass identifies its exact bytes; authorized reviewers can resolve the private witness mapping. Keep [current state](../STATE.md) aligned with actual results, not planned follow-ups.
+
+## POC-PLAN — bounded source-guided scenario
+
+Outputs: [plan](../poc/PLAN.md), [source pack](../poc/SOURCE-PACK.md), [research](../poc/RESEARCH.md), [capabilities](../poc/CAPABILITIES.md), [validation](../poc/VALIDATION.md) and [website reference](../references/FIA-WEBSITE.md). Exact independent source/projection reviews and binding status resolve through [Sources](../SOURCES.md). This pass reviews the governing scope set for one preliminary PoC; it does not replace every earlier source-local extraction, certify an audience or validate an app. Existing broader coverage debt remains.
