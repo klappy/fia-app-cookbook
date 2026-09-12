@@ -31,7 +31,7 @@ Save the full pack; verify actual transfer/cache readback, disconnect with real 
 
 ## Evidence and completion boundaries
 
-No unobserved quality result may become working by changing its label. A mandatory unavailable/untested behavior leaves partial completion even when an accessible fallback exists. Generated audio remains in the authorized private app; this cookbook publishes only reviewed neutral results. Preserve raw transcripts outside Git and use [authorized source access](../SOURCES.md) for exact scope witnesses.
+No unobserved quality result may become working by changing its label. A mandatory unavailable/untested behavior leaves partial completion even when an accessible fallback exists. The private app repository retains narration provenance and review packets; raw private inputs stay in their authorized private source homes outside Git. Reviewed prepared runtime recordings ship in the authorized public static app. This cookbook publishes only reviewed neutral results, not media. Preserve raw transcripts outside Git and use [authorized source access](../SOURCES.md) for exact scope witnesses.
 
 Scope coverage applies to available governing recordings, not proof of complete real-world capture. It does not complete other source-local extraction, broader oral-audience research or product approval. Original recordings, video playback, microphone control, translation production, sync, AI answers, localization and the complete FIA release are unsupported in this bounded result. Spoken app-driving remains an unresolved broader requirement, not a governing-scope exclusion. Per-source notices remain intact; source fidelity is not legal, theological or geographic certification.
 
