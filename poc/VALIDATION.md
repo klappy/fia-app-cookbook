@@ -1,6 +1,6 @@
 # Validation contract and current result
 
-Current 2026-09-11 result: independently runnable **partial PoC** at private app 67b2d704b952c20b3cda953a60b07b2b4c4138a9. The [private delivery record](https://github.com/klappy/fia-functional-poc/blob/main/evidence/DELIVERY.md) owns exact environment, commands, screenshots and results; kitchen owns claim/review/check/merge receipts. This public projection contains no private voice media or source narrative.
+Original 2026-09-11 delivery result: independently runnable **partial PoC** at private app 67b2d704b952c20b3cda953a60b07b2b4c4138a9. The [private delivery record](https://github.com/klappy/fia-functional-poc/blob/main/evidence/DELIVERY.md) owns exact environment, commands, screenshots and results; kitchen owns claim/review/check/merge receipts. This public projection contains no private voice media or source narrative.
 
 The accepted implementation now uses finite prepared synthetic recordings, superseding the original browser-only narration proposal. Ordinary setup requires no provider key, live synthesis or paid request. Source/scripture words, source cues and excluded capabilities are unchanged. Expected spoken-projection hashes are predictions of inspected deterministic punctuation/whitespace normalization, not remote transcription or deployed-model attestations.
 
@@ -31,6 +31,8 @@ Save the full pack; verify actual transfer/cache readback, disconnect with real 
 
 ## Evidence and completion boundaries
 
-No unobserved quality result may become working by changing its label. A mandatory unavailable/untested behavior leaves partial completion even when an accessible fallback exists. Generated audio remains in the authorized private app; this cookbook publishes only reviewed neutral results. Preserve raw transcripts outside Git and use [authorized source access](../SOURCES.md) for exact scope witnesses.
+No unobserved quality result may become working by changing its label. A mandatory unavailable/untested behavior leaves partial completion even when an accessible fallback exists. The private app repository retains narration provenance and review packets; raw private inputs stay in their authorized private source homes outside Git. Reviewed prepared runtime recordings ship in the authorized public static app. This cookbook publishes only reviewed neutral results, not media. Preserve raw transcripts outside Git and use [authorized source access](../SOURCES.md) for exact scope witnesses.
 
 Scope coverage applies to available governing recordings, not proof of complete real-world capture. It does not complete other source-local extraction, broader oral-audience research or product approval. Original recordings, video playback, microphone control, translation production, sync, AI answers, localization and the complete FIA release are unsupported in this bounded result. Spoken app-driving remains an unresolved broader requirement, not a governing-scope exclusion. Per-source notices remain intact; source fidelity is not legal, theological or geographic certification.
+
+The [subsequent contextual playback correction](CONTEXTUAL-PLAYBACK.md) records the expanded term narration and explicit exploration-continuity supersession. The original numerical test/pack totals above describe the historical delivery, not the latest candidate. Exact final correction results remain bound to the private delivery record.

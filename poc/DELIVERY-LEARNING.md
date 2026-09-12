@@ -11,3 +11,9 @@ A per-run generation cap did not govern future retries. Current preparation free
 Actual source/audio bytes, playback events and human-heard quality are three different evidence levels. The first two work here; the third remains unverified, keeping the result partial. Public findings preserve that boundary and keep private voice media and raw governing sources in their authorized homes.
 
 Broader audience learning, field use and source history still need their own evidence. Completing one passage's technical validation does not complete those streams. See [capabilities](CAPABILITIES.md) and [validation](VALIDATION.md).
+
+## Whole-experience review correction
+
+Runtime correctness and individual component checks did not establish a coherent reading experience. Detached playback controls, repeated metadata and inconsistent navigation accumulated despite local visual passes. The correction reviewed complete guide, Scripture, resources and detail views against the full shared system, then preserved source behavior while simplifying application chrome. Component semantics must support the visual boundary: a separate valid HTML button still fails the experience if it appears outside the card it controls. Stable action geometry and persistent current-owner controls are now explicit observed checks.
+
+The review process must compare whole task journeys and responsive states early, record user supersession precisely, and distinguish adopted shared components from custom exceptions. A narrow screenshot pass cannot be promoted into full experience acceptance. Source authority and offline/audio evidence remain independent from design preference.

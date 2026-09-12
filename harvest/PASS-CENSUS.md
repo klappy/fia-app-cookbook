@@ -40,3 +40,7 @@ Outputs: [plan](../poc/PLAN.md), [source pack](../poc/SOURCE-PACK.md), [research
 ## POC-DELIVERY — bounded implementation result projection
 
 Outputs: updated [capabilities](../poc/CAPABILITIES.md), [validation](../poc/VALIDATION.md), current planning/source status and [delivery learning](../poc/DELIVERY-LEARNING.md). Independent clean-checkout and actual browser results support the technical rows; mandatory heard-quality remains untested and the overall result partial. This is a reviewed implementation-result projection, not a new source extraction or closure of the broader coverage table above. Exact private evidence and operational gates resolve through the existing authorized homes.
+
+## Bounded PoC implementation status reconciliation
+
+The [capability register](../poc/CAPABILITIES.md) and [contextual playback record](../poc/CONTEXTUAL-PLAYBACK.md) reconcile existing implementation receipts, preserving historical totals and mandatory acceptance limits. This is a status update to the existing bounded PoC, not a new source harvest. App PR7 automatic deployment and exact-revision HTTP readback were verified on 2026-09-12 UTC; the separately reviewed inset-controls trial remains unintegrated and unreleased. Exact revision and review receipts remain in the private coordination home.
