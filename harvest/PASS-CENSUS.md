@@ -44,3 +44,5 @@ Outputs: updated [capabilities](../poc/CAPABILITIES.md), [validation](../poc/VAL
 ## Bounded PoC implementation status reconciliation
 
 The [capability register](../poc/CAPABILITIES.md) and [contextual playback record](../poc/CONTEXTUAL-PLAYBACK.md) reconcile existing implementation receipts, preserving historical totals and mandatory acceptance limits. This is a status update to the existing bounded PoC, not a new source harvest. App PR7 automatic deployment and exact-revision HTTP readback were verified on 2026-09-12 UTC; the separately reviewed inset-controls trial remains unintegrated and unreleased. Exact revision and review receipts remain in the private coordination home.
+
+Release-capability reconciliation, 2026-09-12 UTC: [current capabilities](../poc/CAPABILITIES.md) now distinguish released shared controls/resource order/install support from the working, unreleased Spanish language-selection candidate. This updates existing implementation knowledge; it is not a new source harvest or a claim of physical-device or heard-quality acceptance.
