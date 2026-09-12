@@ -23,3 +23,7 @@ Product entries link to public support records so their rationale is usable with
 The [PoC plan](poc/PLAN.md) links neutral scope records to the [authorized evidence ledger](https://github.com/klappy/kitchen/blob/main/rail/meals/2026-09-11-fia-functional-poc/ATLANTA-SCOPE-EVIDENCE.tsv). Exact source coverage, held boundaries, retrieval limits and independent receipts remain private. This does not publish original source content or validate product usability.
 
 The [FIA website reference](references/FIA-WEBSITE.md) records URLs, retrieval/crawl limits, terminology, resource discovery and licensing gaps. The [selected source pack](poc/SOURCE-PACK.md) separately assesses actual Aquifer bodies and item-specific rights; [focused research](poc/RESEARCH.md) covers oral-audience interpretation and implementation references. Their status is assessment/proposal, not working app behavior.
+
+## Bounded Spanish availability
+
+[Spanish Mark 1:1–13 availability](poc/LANGUAGE-AVAILABILITY.md) records pinned guide and15term body evidence, two returned Scripture texts, catalog-ID discrepancies and unverified media/audio. This is a planning candidate, not an implemented language pack or semantic/rights clearance.

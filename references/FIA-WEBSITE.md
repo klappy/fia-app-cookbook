@@ -28,3 +28,5 @@ Site-linked licensing references: [CC BY-SA deed](https://drive.google.com/file/
 ## Use in this cookbook
 
 Use with [source register](../SOURCES.md), [selected Aquifer assessment](../poc/SOURCE-PACK.md), [prior guide assessment](../evaluation/aquifer/batches/2026-09-11-fia-aquifer-fiatranslationguide-eng-verified-001/USE-NOTES.md), [prior video assessment](../evaluation/aquifer/batches/2026-09-11-fia-aquifer-videobibledictionary-eng-verified-001/USE-NOTES.md), [focused oral-audience research](../poc/RESEARCH.md), [audience hypotheses](../product/PERSONAS.md), [requirements](../product/REQUIREMENTS.md) and [journeys](../product/JOURNEYS.md). The website supports vocabulary and discovery. Actual selected bodies, versions, permissions, media bytes and behavior require their own evidence. Existing audience and usability hypotheses remain unvalidated.
+
+The [bounded Spanish source assessment](../poc/LANGUAGE-AVAILABILITY.md) checks actual Aquifer bodies independently of website folder counts; site language claims do not establish a complete localized app pack.
