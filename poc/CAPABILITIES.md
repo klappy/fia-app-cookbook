@@ -32,7 +32,7 @@ Broader source-local extraction, audience assessment and history remain open. Th
 
 ## Current merged implementation
 
-App PR7 is merged at `f866e5604bce36d90e7ea3fa6d910e78ac991223`; deployment verification is pending. The inset-controls trial is independently reviewed but remains unintegrated and unreleased.
+App PR7 is merged at `f866e5604bce36d90e7ea3fa6d910e78ac991223`; automatic deployment and exact-revision HTTP readback were verified on 2026-09-12 UTC. The inset-controls trial is independently reviewed but remains unintegrated and unreleased.
 
 The [contextual playback record](CONTEXTUAL-PLAYBACK.md) supersedes the historical numerical and reload behavior above. The current bounded pack has 111 visible activities preserving 130 source units / 39 raw stops, three English Scripture versions, 32 resources and 172 stored recordings. The required pack contains 195 files; exact bytes and released revision are bound in private delivery receipts.
 
