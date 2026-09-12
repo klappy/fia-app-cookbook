@@ -4,7 +4,7 @@ Original delivery result 2026-09-11: **usable partial PoC**, English Mark 1:1–
 
 The current user-authorized implementation uses prepared ElevenLabs synthetic recordings. This supersedes the planning-stage browser-speech implementation choice; browser voices remain optional fallback. No runtime provider key or synthesis call is needed. **Human-heard online/offline quality remains unverified**, so the mandatory narration acceptance row and overall result are partial despite successful media playback.
 
-| Action | Current status | Evidence boundary / limitation |
+| Historical delivery action | Historical status | Evidence boundary / limitation |
 |---|---|---|
 | Open selected guide | Working | All six steps,130 source units;117 ordinary units in guided flow. Canonical source comparison and fresh clean-checkout execution pass. |
 | Select Scripture | Working | Three English versions each contain13 verses; selected version and source position persist locally. No translated-language coverage. |
@@ -30,4 +30,19 @@ The original eight image assets ship; a compression experiment was not adopted. 
 
 Broader source-local extraction, audience assessment and history remain open. The governing scope review covers the available recordings with private coverage limits; it cannot prove unrecorded material did not exist. See [validation](VALIDATION.md) and [source access](../SOURCES.md).
 
-The [subsequent contextual playback correction](CONTEXTUAL-PLAYBACK.md) records the expanded term narration and explicit exploration-continuity supersession. The original numerical test/pack totals above describe the historical delivery, not the latest candidate. Exact final correction results remain bound to the private delivery record.
+## Current merged implementation
+
+App PR7 is merged at `f866e5604bce36d90e7ea3fa6d910e78ac991223`; deployment verification is pending. The inset-controls trial is independently reviewed but remains unintegrated and unreleased.
+
+The [contextual playback record](CONTEXTUAL-PLAYBACK.md) supersedes the historical numerical and reload behavior above. The current bounded pack has 111 visible activities preserving 130 source units / 39 raw stops, three English Scripture versions, 32 resources and 172 stored recordings. The required pack contains 195 files; exact bytes and released revision are bound in private delivery receipts.
+
+| Action | Current capability | Remaining limit |
+|---|---|---|
+| Guide, Scripture and resource playback | Source/output-verified prepared audio, 0.95× rate, 750 ms automatic guide gap, explicit discussion stops; 171 recordings unchanged by the latest single-map correction | One revised map clip accepted by a listener; representative whole-guide/Scripture and offline heard quality remain untested |
+| Local workspace restoration | Theme, view, source position/version, resource query/filter/selection and verified unfinished audio checkpoint restore; audio remains paused until explicit Resume | Last successful local checkpoint, not exact crash-time recovery or account sync; invalid/stale/storage-denied data handled explicitly |
+| Contextual controls | Guide/Scripture stable card footers; natural resource document flow and floating transport; direct card Play with optional details | Merged-source and screenshot boundaries are explicit in private evidence; later visual trials are separate |
+| Offline pack | 195 required files verified before Saved, with atomic replacement and real local cold-offline playback tests | Public live browser/offline check unavailable because its policy check could not complete; historical HTTP 195-hash verification is narrower and does not verify the newly merged revision |
+| Public hosting | Automatic GitHub-main Cloudflare deployment at [fia.klappy.dev](https://fia.klappy.dev), static reviewed bundle only | Build completion and HTTP verification are distinct from browser, heard-quality and physical-device acceptance |
+| Second language | [Spanish source availability](LANGUAGE-AVAILABILITY.md) supports a planning candidate | No implemented switcher/Spanish pack; semantic, asset and narration gaps remain, with a separate planning order |
+
+The current result remains **usable and partial**. No retrospective weakening of the [original validation contract](https://github.com/klappy/fia-app-cookbook/blob/2d90436c80b0c5aa2f18bc7594347b1d6244e704/poc/VALIDATION.md) is implied.
