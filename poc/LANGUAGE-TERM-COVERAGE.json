@@ -1,0 +1,126 @@
+{
+  "sourceHead": "5ce5c6bd152236e16cf23290a40ab625175df8e3",
+  "expected": 15,
+  "found": [
+    {
+      "id": "spa-t63-v1",
+      "title": "heaven",
+      "language": "spa",
+      "chars": 2034,
+      "sourceFile": "008.content.json",
+      "bodySha256": "7d49bcf28f64424cc7f31f9268c9da555df2865dbab99cc70d6bda196863b107"
+    },
+    {
+      "id": "spa-t67-v1",
+      "title": "holy",
+      "language": "spa",
+      "chars": 2834,
+      "sourceFile": "008.content.json",
+      "bodySha256": "d844995b17fbeec59778deafaf1de7837afa960e3428c86f6906c641b47e6d79"
+    },
+    {
+      "id": "spa-t68-v1",
+      "title": "holy-spirit",
+      "language": "spa",
+      "chars": 2405,
+      "sourceFile": "008.content.json",
+      "bodySha256": "54738947a1ebeec198832f0f10603a6cdad7b3769b216e2e02dd5c79a03c9c78"
+    },
+    {
+      "id": "spa-t23-v1",
+      "title": "christ",
+      "language": "spa",
+      "chars": 3011,
+      "sourceFile": "003.content.json",
+      "bodySha256": "ffa3d785544bcb8a9a5ce535aa5717df7ba01cf50868d74d578d0475cb3fc3b7"
+    },
+    {
+      "id": "spa-t125-v1",
+      "title": "pecado",
+      "language": "spa",
+      "chars": 6836,
+      "sourceFile": "016.content.json",
+      "bodySha256": "a4dbeade07ec13b75923bd3cf67944e487b620400edcdb31bebff2752efa411f"
+    },
+    {
+      "id": "spa-t104-v1",
+      "title": "prophet",
+      "language": "spa",
+      "chars": 6986,
+      "sourceFile": "016.content.json",
+      "bodySha256": "9fc321c37e944dc56637a2ce92ad83ed9954244a85bb9858570046de5ae6ef43"
+    },
+    {
+      "id": "spa-t109-v1",
+      "title": "repentance",
+      "language": "spa",
+      "chars": 1204,
+      "sourceFile": "017.content.json",
+      "bodySha256": "c182433d696164648c3ece9b77485dbc4762e72d8a2e7463d4951798992ab992"
+    },
+    {
+      "id": "spa-t9-v1",
+      "title": "baptism",
+      "language": "spa",
+      "chars": 3452,
+      "sourceFile": "002.content.json",
+      "bodySha256": "9c16804a3788fea5f9a54794272244d3b6c887e34725e2972ca0f74e177827df"
+    },
+    {
+      "id": "spa-t145-v1",
+      "title": "wilderness",
+      "language": "spa",
+      "chars": 261,
+      "sourceFile": "021.content.json",
+      "bodySha256": "e22c7d99b217d04623f7d2a2b8fcc38edcb8ff24f6aa246a5ed3861cd45e2bc7"
+    },
+    {
+      "id": "spa-t60-v1",
+      "title": "gospel",
+      "language": "spa",
+      "chars": 1932,
+      "sourceFile": "007.content.json",
+      "bodySha256": "e6d0c6f4e0ae0ad226bc5efdbc47674b372cbc42b1f2d4198ea63272245e4dc3"
+    },
+    {
+      "id": "spa-t53-v1",
+      "title": "forgiveness",
+      "language": "spa",
+      "chars": 1736,
+      "sourceFile": "006.content.json",
+      "bodySha256": "4ed3988a845750f5a5ad33007776699ac7983ace9afd9de7ec7a42671ad57f97"
+    },
+    {
+      "id": "spa-t92-v1",
+      "title": "messiah",
+      "language": "spa",
+      "chars": 3038,
+      "sourceFile": "013.content.json",
+      "bodySha256": "fac86d5fc90cf528e1b1cf0cd8452e5a8c54d430866183c41d7f037ffd84af00"
+    },
+    {
+      "id": "spa-t118-v1",
+      "title": "satan",
+      "language": "spa",
+      "chars": 1487,
+      "sourceFile": "018.content.json",
+      "bodySha256": "a1a78e118c994636a00ea675e78e274370f95c73ffd77346ad210bc9cb204512"
+    },
+    {
+      "id": "spa-t129-v1",
+      "title": "son-of-god",
+      "language": "spa",
+      "chars": 1374,
+      "sourceFile": "018.content.json",
+      "bodySha256": "4e7f54715b405097b2c0f4e95f5d0b67191d3271823b9f7d27479c3d92860876"
+    },
+    {
+      "id": "spa-t132-v1",
+      "title": "spirit",
+      "language": "spa",
+      "chars": 1783,
+      "sourceFile": "018.content.json",
+      "bodySha256": "eee05e0aaa74e8fbf5210301ebae11e03d268cf9aa43855cb0b47d93163e5cfa"
+    }
+  ]
+}
