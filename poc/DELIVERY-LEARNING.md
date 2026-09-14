@@ -17,3 +17,9 @@ Broader audience learning, field use and source history still need their own evi
 Runtime correctness and individual component checks did not establish a coherent reading experience. Detached playback controls, repeated metadata and inconsistent navigation accumulated despite local visual passes. The correction reviewed complete guide, Scripture, resources and detail views against the full shared system, then preserved source behavior while simplifying application chrome. Component semantics must support the visual boundary: a separate valid HTML button still fails the experience if it appears outside the card it controls. Stable action geometry and persistent current-owner controls are now explicit observed checks.
 
 The review process must compare whole task journeys and responsive states early, record user supersession precisely, and distinguish adopted shared components from custom exceptions. A narrow screenshot pass cannot be promoted into full experience acceptance. Source authority and offline/audio evidence remain independent from design preference.
+
+## Independent delivery and release evidence
+
+The standing coordination preference is to run independent work in parallel and ship each accepted change when its own dependencies and gates are satisfied. A separate narration preparation must not hold an independently accepted text/interface release. Shared-file integration and actual release dependencies remain explicit. Preserve prior budgets when authorizing a bounded follow-up.
+
+Build and verify the exact merged revision: a successful branch build or a previous HTTP receipt does not prove what public hosting currently serves. Keep native popup checks distinct from programmatic selection, and retain old saved-state migration tests so a clean browser cannot conceal lost progress.

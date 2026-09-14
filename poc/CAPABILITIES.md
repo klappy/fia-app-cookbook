@@ -1,5 +1,7 @@
 # Capability register
 
+The September 14 section below is the current status. Earlier dated snapshots, including unavailable-narration statements and distribution totals, are historical evidence.
+
 Original delivery result 2026-09-11: **usable partial PoC**, English Mark 1:1–13 only. Implementation validated at private app commit67b2d704b952c20b3cda953a60b07b2b4c4138a9. The [private delivery evidence](https://github.com/klappy/fia-functional-poc/blob/main/evidence/DELIVERY.md) and authorized kitchen receipts bind exact tests and subsequent documentation revisions. Private links require access; their existence is not public access to voice media or source evidence.
 
 The current user-authorized implementation uses prepared ElevenLabs synthetic recordings. This supersedes the planning-stage browser-speech implementation choice; browser voices remain optional fallback. No runtime provider key or synthesis call is needed. **Human-heard online/offline quality remains unverified**, so the mandatory narration acceptance row and overall result are partial despite successful media playback.
@@ -47,3 +49,13 @@ The [contextual playback record](CONTEXTUAL-PLAYBACK.md) supersedes the historic
 | Second language | Selectable Spanish text/media, six guide steps, reviewed sources and labeled supplements; release receipt above | Spanish narration remains unavailable; complete audio-first acceptance remains pending |
 
 The current result remains **usable and partial**. No retrospective weakening of the [original validation contract](https://github.com/klappy/fia-app-cookbook/blob/2d90436c80b0c5aa2f18bc7594347b1d6244e704/poc/VALIDATION.md) is implied.
+
+## September 14 verified release
+
+The earlier publicly verified app main `51e653bc` provided 34 Spanish resources, two original Scripture editions and 191 prepared Spanish recordings. Original source records and item-specific rights remain intact. Three proposed AI-derived Scripture editions were withdrawn, not added to the authorized recording set. Maps retain their original image pixels; videos remain explicit external links. Natural spoken reference replacements preserve the displayed source text.
+
+Released app main `62d28f5` adds published Door43 Spanish ULB v1.4 with provenance, attribution and 13 prepared verse recordings: three authentic Spanish editions and 204 recordings in total. Version 0.1.9 passes the exact 418-file build audit; deployment and independent HTTP readback verify all 418 files (216,682,503 bytes) at the final main revision. The existing unchanged deployment pipeline was invoked manually once after the final automatic build did not appear.
+
+The released app uses shared Guide, Scripture, Resources and full language-picker components. Current-language confirmation returns to content without a fetch or autoplay. Failed optional audio loading retains accessible text and truthful availability. Resource previews stay concise; details retain one attribution section, contextual description and external-video body. Source video links open separately without leaving the passage; empty source anchors are excluded. Native dropdown option styling has bounded checks; native OS popup rendering remains unverified.
+
+Actual clip identities drive released highlighting. Spanish verse clips support verse-level highlighting; full-passage English recordings retain passage-level highlighting. Word timing is not available. English alignment inputs were prepared, but the upload permission block prevents alignment execution; no timing result is claimed. Automatic synthetic introductions are disabled by operator policy, while unseen source-specific notices remain distinct. Explicit Info replay preserves paused content progress.
