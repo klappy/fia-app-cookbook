@@ -61,3 +61,9 @@ The resulting [role supplements](../product/PERSONAS.md#oral-audience-research-i
 [Resource discovery, fidelity and operating questions](support/SUPPORT-002.md) adds 24 sanitized historical support records from another completed source-local review. The records preserve alternatives, qualifications and unresolved questions, including the difference between discovering resources, maintaining their fidelity and choosing how they reach the app. All reviewed candidates have explicit private witness mappings; sensitive details remain withheld.
 
 The original ten claims remain proposed. This pass does not ratify new requirements or establish current owners, budgets, schedules, source capabilities or audience validation. The bounded oral-audience research above retains its separate evidence and limitations.
+
+## Supporting pass 003
+
+[Scope, delivery and learning from use](support/SUPPORT-003.md) adds 40 sanitized historical support records with complete private candidate-to-witness mappings. It preserves phone-first tradeoffs, unresolved AI scope, guided resource access, distribution alternatives, localization questions and proposed feedback practices as distinct meanings.
+
+These records do not make historical dates, assignments or feature ambitions current commitments. Existing oral research and earlier support retain their separate scope and qualifications; actual implementation remains in the PoC status record.
