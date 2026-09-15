@@ -50,4 +50,4 @@ The [localized resource discovery requirement](management/DELIVERY-PLAN.md#local
 
 ## September 15 narration and media release
 
-The [current narration and media status](poc/NARRATION-MEDIA-STATUS.md) records publicly verified main e02310f and distinguishes separate locally validated follow-ups from released behavior.
+The [current narration and media status](poc/NARRATION-MEDIA-STATUS.md) records the verified final narration, media, settings and completion-helper release, with bounded validation and explicit historical receipt corrections.
