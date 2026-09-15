@@ -58,3 +58,5 @@ The [delivery worksheet](../management/DELIVERY-PLAN.md#localized-resource-disco
 ## Narration and media release reconciliation
 
 The [release status](../poc/NARRATION-MEDIA-STATUS.md) projects verified implementation receipts and their limits. It is not a new source harvest or a claim of exhaustive localized-resource discovery.
+
+Final September 15 release reconciliation binds app 8121c11 (0.1.17), independent 462-file public verification, automatic page progress and the quiet completion control. The status record retains bounded validation, superseded test evidence and the unintegrated external BSB candidate.
