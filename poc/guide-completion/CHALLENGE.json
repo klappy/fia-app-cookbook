@@ -1,0 +1,45 @@
+{
+  "server_time": "2026-09-15T16:40:49.149Z",
+  "status": "CHALLENGED",
+  "missing_prerequisites": [
+    "Confidence level not signaled — is this a guess, a working belief, or an established fact?",
+    "No risks or costs acknowledged",
+    "No disconfirmer acknowledged — what would change this claim?"
+  ],
+  "challenges": [
+    "How many distinct cases does this principle rest on? One, two, many?",
+    "What's a counter-example you considered and rejected?",
+    "What's the scope? Does this hold for a specific domain, or are you making a universal claim?",
+    "Under what conditions would you retract this principle?",
+    "Is this observation based on a representative sample?",
+    "What context might change this observation?",
+    "Is this one data point, or a pattern?",
+    "Has this assumption been validated with evidence?",
+    "What if this assumption is wrong — what breaks?",
+    "Is this assumption documented or just implicit?",
+    "When was this last verified against reality?",
+    "Is the comparison target fairly represented or characterized in its weakest form?",
+    "When was the comparison target last examined? Has it changed since?",
+    "Have you engaged the strongest version of the compared work, or the most convenient?",
+    "What is the compared work trying to solve that yours isn't, and vice versa?",
+    "What's the cost of being wrong here?",
+    "What alternatives were considered and rejected, and why?",
+    "What would need to be true for this to fail?",
+    "Is this reversible? If not, what's the point of no return?",
+    "Does this already have a name in another field or literature?",
+    "Is the term precise enough that two careful readers would apply it the same way?",
+    "What does this term exclude? A term that means everything means nothing.",
+    "Would a hostile reader understand why this needs its own name rather than an existing one?",
+    "What evidence would disprove this?",
+    "Under what conditions does this NOT hold?",
+    "Who or what would disagree with this, and why?",
+    "What is the strongest version of the opposing view?"
+  ],
+  "block_until_addressed": false,
+  "governance_uris": [
+    "klappy://odd/challenge/base-prerequisites",
+    "klappy://odd/challenge-types",
+    "klappy://odd/challenge/normative-vocabulary",
+    "klappy://odd/challenge/stakes-calibration"
+  ]
+}
