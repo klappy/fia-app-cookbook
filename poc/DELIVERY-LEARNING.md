@@ -23,6 +23,7 @@ The review process must compare whole task journeys and responsive states early,
 The standing coordination preference is to run independent work in parallel and ship each accepted change when its own dependencies and gates are satisfied. A separate narration preparation must not hold an independently accepted text/interface release. Shared-file integration and actual release dependencies remain explicit. Preserve prior budgets when authorizing a bounded follow-up.
 
 Build and verify the exact merged revision: a successful branch build or a previous HTTP receipt does not prove what public hosting currently serves. Keep native popup checks distinct from programmatic selection, and retain old saved-state migration tests so a clean browser cannot conceal lost progress.
+
 # Delivery lessons from the FIA release — proposed project-local addition
 
 These lessons apply to this delivery workflow. They are not new canon and do not establish physical-device or listening quality.
