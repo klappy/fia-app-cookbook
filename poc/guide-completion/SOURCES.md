@@ -6,7 +6,7 @@
 - `src/components/SpanishSession.jsx`: moveGuide appends visitedSections; shared GuideScreen receives visited-derived completion; index rows currently separate language mapping.
 - `src/components/GuideScreen.jsx`, `GuideIndex.jsx`: existing step dropdown/section index and explicit Finish; no inline completed state.
 - `src/vendor/glass/components/forms/GlassSelect.jsx`: native select/options, textual labels supported; rich option markup not supported.
-- Cookbook5ff8b9a `poc/PLAN.md` line35: explicit Finish after six steps visited; only local visited/position state. New plan proposes a governed supersession, not reinterpretation of historical records.
+- Cookbook5ff8b9a `poc/PLAN.md` line35: explicit Finish after six steps visited; only local visited/position state. The amended progress helper preserves that Finish contract and does not reinterpret historical records.
 - Live Glass8d6b48d `ui_kits/fia/README.md`: Progress proposal, structure explicitly provisional until cookbook; `ui_kits/fia/app.jsx`: ProgressGrid sample and check tab icon; `components/progress/ProgressGrid.prompt.md`: books/chapter status cells. Neither source supplies actual app completion semantics.
 
 Repository heads refreshed through Git reads. Canon driver's-seat lens retrieved through callable Oddkit get. No app code changed during planning. Independent root review is pending.
