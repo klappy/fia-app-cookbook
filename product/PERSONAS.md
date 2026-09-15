@@ -82,7 +82,7 @@ The [claim register](../claims/CLAIMS.tsv) provides framing. [Supporting pass 00
 | Related development | R-03, R-10; journey not yet specified |
 | Actual research / contrary evidence | Not filled |
 
-Audience knowledge from the designated [oral-theology source home](https://github.com/klappy/oral-theology-kb) remains **unassessed in this pass**. Historical app discussion is not a substitute for that stream or direct user research. No language, literacy, cultural, accessibility or device characteristic is inferred from a repository name.
+The original historical-support pass did not assess the designated oral-theology stream. The bounded research below now adds qualified source-informed questions; it does not supply direct user research or validate these role models.
 
 ## Add or revise a role model
 
@@ -104,3 +104,17 @@ Use [journeys](JOURNEYS.md) to explore behavior and [requirements](REQUIREMENTS.
 ## New reference, unchanged validation status
 
 The [FIA website](../references/FIA-WEBSITE.md) and [focused oral-theology research](../poc/RESEARCH.md) support considering narrative, embodiment and shared discussion. They do not validate these role hypotheses, establish demographics or equate orality with inability to read. The [bounded PoC](../poc/PLAN.md) tests technical behavior before any field-usability claim.
+
+## Oral-audience research implications
+
+The [bounded oral-audience study](../research/ORAL-AUDIENCE.md) adds research-informed hypotheses. These supplements do not replace existing role boundaries, appoint people or infer demographic characteristics. One person's practices may vary across tasks and settings.
+
+| Existing role | Need or context to investigate | Exercise and contrary evidence to retain |
+|---|---|---|
+| P-01 shared-session guide; P-04 familiar-flow participant | Access to playback and authority to interpret may be distributed differently (OA-01, OA-02, OA-05). | Observe who controls pausing and who can contribute, disagree or request repetition. Record participants who can hear the resource but cannot influence discussion. |
+| P-02 individual participant | Narration, text, images and embodied expression may support different tasks (OA-02, OA-04, OA-10). | Ask participants to use their preferred combinations to explain a passage, and observe where individual preparation does or does not support later communal use. Do not classify them by reading ability from a single choice. |
+| P-03 offline preparer | Obtaining a usable resource is distinct from understanding it or participating (OA-03). | Trace preparation through disconnected use in the intended language; identify device-operation or format barriers even when the download succeeds. |
+| P-05 feedback contributor | Receiving feedback is distinct from participants influencing resource design (OA-05, OA-06, OA-08). | Follow an adaptation or disagreement through an authorized decision and return to participants. A form submission alone is not evidence of agency. |
+| P-06 separate access investigation | The sources acknowledge differing access contexts without establishing this role's specific needs. | Keep disability-specific and trauma-related assumptions unfilled until appropriate research; do not prescribe an oral-first solution from this study. |
+
+Actual participant results remain **not collected by this study**. Source-reported preferences for human narration motivate local comparison, not a universal voice rule (OA-06). Technology use is one contextual factor, not a sufficient explanation of a participant's behavior (OA-09).
