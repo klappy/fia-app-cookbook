@@ -4,11 +4,15 @@ This is the working home for FIA App product knowledge: its purpose, requirement
 
 Start with [proposed product direction](PRODUCT.md) and [current state](STATE.md). The first bounded knowledge pass is recorded as proposed; it is not an approved specification. It is distinct from the FIA MCP and FIA KB projects and does not define the app's implementation.
 
+The [released one-passage PoC status](poc/NARRATION-MEDIA-STATUS.md) records current implementation and validation limits. The broader product proposals and remaining source assessments are distinct from that release.
+
 ## Find your next step
 
 - [Proposed product direction](PRODUCT.md): purpose, intended workflow, constraints and open interaction choices.
 - [Claim register](claims/CLAIMS.tsv): the same proposed statements with evidence access pointers.
 - [One English guide: findings](evaluation/aquifer/batches/2026-09-11-fia-aquifer-fiatranslationguide-eng-verified-001/FINDINGS.md) and [use notes](evaluation/aquifer/batches/2026-09-11-fia-aquifer-fiatranslationguide-eng-verified-001/USE-NOTES.md): a bounded text/use review; linked media and the overall FIA assessment remain pending.
+
+- [One video wrapper: findings](evaluation/aquifer/batches/2026-09-11-fia-aquifer-videobibledictionary-eng-verified-001/FINDINGS.md) and [use notes](evaluation/aquifer/batches/2026-09-11-fia-aquifer-videobibledictionary-eng-verified-001/USE-NOTES.md): returned-wrapper access and dependencies; the linked film was not watched.
 
 - [Requirements in development](product/REQUIREMENTS.md): worked proposals and a repeatable evidence/validation template.
 - [Role hypotheses](product/PERSONAS.md) and [journey drafts](product/JOURNEYS.md): explicitly unvalidated models to test.
