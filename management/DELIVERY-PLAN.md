@@ -9,10 +9,18 @@ This sequence is a planning hypothesis, not a schedule or an assertion that work
 | Step | Artifact advanced | Evidence / exit question | Current worksheet status |
 |---|---|---|---|
 | Add source-local support | [Support](../journals/SUPPORT.md), existing claims | Are meaningful rationale, alternatives and open questions represented with evidence? | Further support pending; no quota defines completeness. |
-| Assess V1 inputs | [Project brief](PROJECT-BRIEF.md) | What was actually learned from resource use, audience context and the designated design system? | Unassessed here; source links are starting points, not findings. |
-| Refine a requirement and journey | [Requirements](../product/REQUIREMENTS.md), [journeys](../product/JOURNEYS.md) | Which parts are observed, derived or still blank? | Worked hypotheses provided; no validated behavior. |
+| Assess V1 inputs | [Project brief](PROJECT-BRIEF.md) | What was actually learned from resource use, audience context and the designated design system? | Partial: bounded English guide text and video-wrapper notes are published. Oral-audience research, design-system fit and broader Aquifer localization/media evaluation remain open. |
+| Refine a requirement and journey | [Requirements](../product/REQUIREMENTS.md), [journeys](../product/JOURNEYS.md) | Which parts are observed, derived or still blank? | Worked product hypotheses remain unvalidated; the separate one-passage PoC has bounded implementation checks. |
 | Run a bounded user/design exercise | Related artifact's validation field | Can the intended role complete the proposed task, and what contrary evidence appears? | Exercise, participants, measures and results not filled. |
 | Review and update | Claim, artifact and support links | Is the exact candidate supported, appropriately sanitized and authorized? | Later changes need their own applicable review; no publication receipt is implied. |
+
+## Published evidence and remaining scope
+
+The [current PoC release](../poc/NARRATION-MEDIA-STATUS.md) records shipped functionality and validation limits. It does not complete the four-stream source assessment or audience/field validation.
+
+- [English guide findings](../evaluation/aquifer/batches/2026-09-11-fia-aquifer-fiatranslationguide-eng-verified-001/FINDINGS.md) and [use notes](../evaluation/aquifer/batches/2026-09-11-fia-aquifer-fiatranslationguide-eng-verified-001/USE-NOTES.md) cover one full rendered English text and its use; linked media and broader evaluation remain open.
+- [Video-wrapper findings](../evaluation/aquifer/batches/2026-09-11-fia-aquifer-videobibledictionary-eng-verified-001/FINDINGS.md) and [use notes](../evaluation/aquifer/batches/2026-09-11-fia-aquifer-videobibledictionary-eng-verified-001/USE-NOTES.md) cover returned-wrapper access and dependencies. The film was not watched.
+- Three remaining source-local extractions, oral-audience research, design-system fit and localization access mapping retain their existing work items and gates. They are not implied running by this worksheet. Wider-history discovery remains a later scope.
 
 ## Add a work-linked increment
 

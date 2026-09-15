@@ -23,3 +23,15 @@ The review process must compare whole task journeys and responsive states early,
 The standing coordination preference is to run independent work in parallel and ship each accepted change when its own dependencies and gates are satisfied. A separate narration preparation must not hold an independently accepted text/interface release. Shared-file integration and actual release dependencies remain explicit. Preserve prior budgets when authorizing a bounded follow-up.
 
 Build and verify the exact merged revision: a successful branch build or a previous HTTP receipt does not prove what public hosting currently serves. Keep native popup checks distinct from programmatic selection, and retain old saved-state migration tests so a clean browser cannot conceal lost progress.
+
+# Delivery lessons from the FIA release — proposed project-local addition
+
+These lessons apply to this delivery workflow. They are not new canon and do not establish physical-device or listening quality.
+
+- Dispatch: send a new assignment with a tool that starts or resumes the actual worker; verify acknowledgment and an execution receipt before describing work as running. A message delivered to an idle worker did not start work in this session.
+- Validation: read the complete result and exit status before reporting a test count. An earlier report said three passing tests when the file contained two passes and one failure. The author and reviewing coordinators accepted an unread result. The exact corrected run passed; retain the correction with the historical receipt.
+- Preview handoff: verify the candidate build and its runtime dependencies before replacing a known preview. A working local URL is a time-bound observation, not an unattended availability guarantee.
+- Visual review: compare both states using the actual theme tokens. A single screenshot did not establish completed versus incomplete contrast when dark tokens resolved to the same color.
+- Access restrictions: a failed policy verification is not permission to retry the same website through another transport. Alternate transcode website content obtained after a failed safe read was excluded from accepted evidence; independent permitted publisher sources remained usable.
+
+For future FIA dishes, acceptance should cite the exact source/build, complete observed test result, actual worker state, and material unverified gates. Apply these checks at handoff; do not create new mandatory user approval for ordinary reversible work.
