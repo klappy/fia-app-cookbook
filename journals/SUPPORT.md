@@ -67,3 +67,9 @@ The original ten claims remain proposed. This pass does not ratify new requireme
 [Scope, delivery and learning from use](support/SUPPORT-003.md) adds 40 sanitized historical support records with complete private candidate-to-witness mappings. It preserves phone-first tradeoffs, unresolved AI scope, guided resource access, distribution alternatives, localization questions and proposed feedback practices as distinct meanings.
 
 These records do not make historical dates, assignments or feature ambitions current commitments. Existing oral research and earlier support retain their separate scope and qualifications; actual implementation remains in the PoC status record.
+
+## Supporting pass 004
+
+[Media access, storage and bounded development](support/SUPPORT-004.md) adds 36 sanitized historical support records with private candidate-to-witness mappings. It preserves compression and compatibility limits, competing storage approaches, original-source fidelity, oral onboarding proposals and bounded development questions.
+
+Adjacent coaching and map-tool possibilities remain historical context, not current app scope. These records do not validate current media quality, ratify requirements or establish new commitments; prior support, oral research and released PoC evidence retain their separate status.
