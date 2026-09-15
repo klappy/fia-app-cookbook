@@ -34,3 +34,9 @@ Do not infer progress from the presence of a template, a source link or a propos
 Deferred product idea: subtly distinguish content sources while preserving a coherent reading experience. Retain source identity, revision, attribution and derivation links as resources move between open repositories or receive supplements and revisions. This note records future intent; it authorizes no interface change or migration in the current work.
 
 Evidence and the independent projection review remain in the [authorized coordination journal](https://github.com/klappy/kitchen/blob/main/journal/2026-09-11-fia-functional-poc-cook.tsv).
+
+## Localized resource discovery
+
+Discover localized resources through each target language’s own catalog, identifiers and source paths. A missing language folder in one collection does not establish that no localized resource exists. Before substituting a visual, verify correspondence, source revision, image identity, rights and the language actually visible in the image. A translated title alone does not establish translated map labels. Keep an explicit original-language fallback while discovery is incomplete.
+
+This records an ingestion requirement; it does not claim exhaustive discovery or a verified replacement. Current bounded search and review receipts remain in the [authorized coordination journal](https://github.com/klappy/kitchen/blob/main/journal/2026-09-11-fia-functional-poc-cook.tsv).

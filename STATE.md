@@ -45,3 +45,5 @@ Released main `0c21899f25bba5255a566ac9860dafc32130fb29` (0.1.10) adds source-bo
 ## Deferred source note
 
 The [delivery worksheet](management/DELIVERY-PLAN.md#deferred-source-differentiation) records future source differentiation and provenance intent. It is a deferred idea, not an implementation or migration order.
+
+The [localized resource discovery requirement](management/DELIVERY-PLAN.md#localized-resource-discovery) requires target-language source discovery and visual verification before substitution. It does not establish a localized replacement or complete catalog coverage.
