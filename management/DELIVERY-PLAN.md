@@ -28,3 +28,9 @@ This sequence is a planning hypothesis, not a schedule or an assertion that work
 | Remaining debt / next work pointer | Not filled |
 
 Do not infer progress from the presence of a template, a source link or a proposed step. Record actual outcomes; retain changed hypotheses and their reasons rather than silently rewriting history.
+
+## Deferred source differentiation
+
+Deferred product idea: subtly distinguish content sources while preserving a coherent reading experience. Retain source identity, revision, attribution and derivation links as resources move between open repositories or receive supplements and revisions. This note records future intent; it authorizes no interface change or migration in the current work.
+
+Evidence and the independent projection review remain in the [authorized coordination journal](https://github.com/klappy/kitchen/blob/main/journal/2026-09-11-fia-functional-poc-cook.tsv).

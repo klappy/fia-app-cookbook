@@ -46,3 +46,7 @@ Outputs: updated [capabilities](../poc/CAPABILITIES.md), [validation](../poc/VAL
 Historical PR7 reconciliation: the [capability register](../poc/CAPABILITIES.md) and [contextual playback record](../poc/CONTEXTUAL-PLAYBACK.md) reconciled existing implementation receipts, preserving historical totals and mandatory acceptance limits. This is a status update to the existing bounded PoC, not a new source harvest. App PR7 automatic deployment and exact-revision HTTP readback were verified on 2026-09-12 UTC; the separately reviewed inset-controls trial was then unintegrated and unreleased; the release-capability update below supersedes that state. Exact revision and review receipts remain in the private coordination home.
 
 Release-capability reconciliation, 2026-09-12 UTC: [current capabilities](../poc/CAPABILITIES.md) now distinguish released shared controls/resource order/install support from the working, unreleased Spanish language-selection candidate. This updates existing implementation knowledge; it is not a new source harvest or a claim of physical-device or heard-quality acceptance.
+
+## Deferred source differentiation note
+
+The [delivery worksheet](../management/DELIVERY-PLAN.md#deferred-source-differentiation) records an independently reviewed future product idea. This is a planning note, not a new source harvest or completed interface change. The authorized coordination journal retains its instruction and review receipt.
