@@ -32,7 +32,7 @@ Read [the detailed support records](support/SUPPORT-001.md) for historical propo
 
 One bounded source has received a complete captured-span omission review and a sanitized supporting projection. Full semantic completeness remains unclaimed: relevant withheld material and an incomplete item remain explicit in the private neutral ledger. Withheld material is not silently converted into an approved conclusion. The source's remaining gaps are not repaired by its record count.
 
-The other three known sources in the initial discussion set still need comparable source-local extraction. Actual Aquifer use, the designated oral-theology audience home and the designated Generative Glass design-system stream remain separate V1 assessments; this patch supplies no new findings from them. Wider historical coverage remains V2. The [harvest record](../harvest/PASS-CENSUS.md) distinguishes these scopes.
+Remaining source-local extractions and their reviewed product returns retain separate work items. The original supporting pass supplied no new V1 source assessments. The bounded oral-audience study linked below now adds qualified findings; broader Aquifer evaluation and the Generative Glass fit assessment retain their separate scopes. Wider historical coverage remains V2. The [harvest record](../harvest/PASS-CENSUS.md) distinguishes these scopes.
 
 The original ten claims remain proposed. Historical scope choices, implementation ideas, role descriptions and timing hopes do not appoint owners, authorize a build or create a schedule. The [delivery plan](../management/DELIVERY-PLAN.md) points to the actual rail; this journal is not a replacement backlog.
 
@@ -49,3 +49,9 @@ The original ten claims remain proposed. Historical scope choices, implementatio
 | Open thread / return condition / supersedes | Not filled |
 
 Keep raw source material and identifying metadata out of this public file. Use [contribution rules](../AGENTS.md), [source access](../SOURCES.md) and [the harvest procedure](../harvest/PROCEDURE.md). A support record's existence is not proof that its follow-up ran.
+
+## Bounded oral-audience research
+
+[Oral-audience research](../research/ORAL-AUDIENCE.md) records qualified findings from the full short Stringer interpretive extraction and two selected Huisman archive passages. Both source files have `human_review: false`; their original publications and reported studies were not independently verified here. Coverage, the selection-boundary error and interpretation limits are explicit in that note.
+
+The resulting [role supplements](../product/PERSONAS.md#oral-audience-research-implications) and [journey exercises](../product/JOURNEYS.md#oral-audience-research-overlay) are research-informed hypotheses. They separate physical access, format access and participation, retain contrary context, and do not establish direct FIA app participant validation, a new decision or an encode event.

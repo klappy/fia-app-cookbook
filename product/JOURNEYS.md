@@ -92,3 +92,17 @@ Record supporting evidence and unresolved threads in [Support](../journals/SUPPO
 ## Bounded PoC scenario
 
 [PLAN](../poc/PLAN.md) defines a source-bound six-step, single-passage scenario with [observable validation](../poc/VALIDATION.md). Existing journey ordering remains hypothetical. [FIA website terminology and resource paths](../references/FIA-WEBSITE.md) inform navigation, while [source-pack evidence](../poc/SOURCE-PACK.md) determines actual included assets. Spoken app-driving remains distinct from synthetic narration and accessible controls.
+
+## Oral-audience research overlay
+
+These additions are derived research exercises from [OA-01–OA-10](../research/ORAL-AUDIENCE.md), not an observed sequence or new implementation order. The original journeys remain hypotheses.
+
+| Journey | Proposed research addition | What would challenge the assumption? |
+|---|---|---|
+| J-01 engage, discuss, resume | Observe access to controls, comprehension of formats and ability to contribute separately. Allow the group to propose repetition, enactment or a different order (OA-01, OA-02, OA-04). | Smooth playback alongside suppressed discussion, unclear content or participants unable to request a pause. |
+| J-02 offline preparation | Continue the exercise after successful download: can the intended participant use the language, media and device independently in the actual setting? (OA-03) | Correct files are present but the resource remains unusable because of language, format or device familiarity. |
+| J-03 spoken configuration | Keep spoken navigation as a separate hypothesis; oral-context literature alone does not demonstrate demand for speech commands (OA-02, OA-09). | Participants prefer deliberate controls or the shared task makes spoken commands disruptive. |
+| J-04 individual engagement | Compare available modes and invite expression of understanding without requiring recording. Investigate narration preference separately from technical audio quality (OA-04, OA-06). | A preferred voice or mode does not support the task, or preferences differ among participants. |
+| J-05 product iteration | Trace whose suggestions, disagreement and local adaptations change a later resource, then return that result for participant review (OA-05, OA-08). | Feedback is collected but contributors have no visible influence or the revision loses important context. |
+
+Ordering these checks is a research-design choice, not source evidence of a universal FIA workflow. No exercise ran as part of this literature reading. Samples, consent, local facilitation, access accommodations and outcome thresholds require their own concrete research arrangements.
