@@ -41,3 +41,7 @@ Released app main `62d28f5d9343a263478e10228ed9f3bcdae62682` adds the published 
 ## September 15 alignment release
 
 Released main `0c21899f25bba5255a566ac9860dafc32130fb29` (0.1.10) adds source-bound English word and verse timing for the three existing recordings. Three initial alignment requests completed, and native boundary/owner/pause/fallback checks plus an offline cold-page check pass. Its build contains 421 distribution files and 203 required English offline files. Automatic deployment succeeded on September 15 at 14:32:02.564 UTC. Independent HTTP readback at 14:33:21.880409 UTC verified all 421 files by bytes and SHA-256, totaling 216,741,866 bytes, with zero failures. Audio bytes and the 204 Spanish recordings are preserved.
+
+## Deferred source note
+
+The [delivery worksheet](management/DELIVERY-PLAN.md#deferred-source-differentiation) records future source differentiation and provenance intent. It is a deferred idea, not an implementation or migration order.
