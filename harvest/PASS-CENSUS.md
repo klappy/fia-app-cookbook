@@ -54,3 +54,7 @@ The [delivery worksheet](../management/DELIVERY-PLAN.md#deferred-source-differen
 ## Localized discovery requirement
 
 The [delivery worksheet](../management/DELIVERY-PLAN.md#localized-resource-discovery) records an independently reviewed ingestion requirement. Bounded current searches and their incomplete coverage remain in authorized coordination; no exhaustive catalog or replacement claim is made.
+
+## Narration and media release reconciliation
+
+The [release status](../poc/NARRATION-MEDIA-STATUS.md) projects verified implementation receipts and their limits. It is not a new source harvest or a claim of exhaustive localized-resource discovery.
