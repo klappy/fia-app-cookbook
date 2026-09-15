@@ -55,3 +55,9 @@ Keep raw source material and identifying metadata out of this public file. Use [
 [Oral-audience research](../research/ORAL-AUDIENCE.md) records qualified findings from the full short Stringer interpretive extraction and two selected Huisman archive passages. Both source files have `human_review: false`; their original publications and reported studies were not independently verified here. Coverage, the selection-boundary error and interpretation limits are explicit in that note.
 
 The resulting [role supplements](../product/PERSONAS.md#oral-audience-research-implications) and [journey exercises](../product/JOURNEYS.md#oral-audience-research-overlay) are research-informed hypotheses. They separate physical access, format access and participation, retain contrary context, and do not establish direct FIA app participant validation, a new decision or an encode event.
+
+## Supporting pass 002
+
+[Resource discovery, fidelity and operating questions](support/SUPPORT-002.md) adds 24 sanitized historical support records from another completed source-local review. The records preserve alternatives, qualifications and unresolved questions, including the difference between discovering resources, maintaining their fidelity and choosing how they reach the app. All reviewed candidates have explicit private witness mappings; sensitive details remain withheld.
+
+The original ten claims remain proposed. This pass does not ratify new requirements or establish current owners, budgets, schedules, source capabilities or audience validation. The bounded oral-audience research above retains its separate evidence and limitations.
