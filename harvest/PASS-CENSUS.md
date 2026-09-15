@@ -50,3 +50,7 @@ Release-capability reconciliation, 2026-09-12 UTC: [current capabilities](../poc
 ## Deferred source differentiation note
 
 The [delivery worksheet](../management/DELIVERY-PLAN.md#deferred-source-differentiation) records an independently reviewed future product idea. This is a planning note, not a new source harvest or completed interface change. The authorized coordination journal retains its instruction and review receipt.
+
+## Localized discovery requirement
+
+The [delivery worksheet](../management/DELIVERY-PLAN.md#localized-resource-discovery) records an independently reviewed ingestion requirement. Bounded current searches and their incomplete coverage remain in authorized coordination; no exhaustive catalog or replacement claim is made.
